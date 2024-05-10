@@ -5,7 +5,8 @@ Blog App is a mobile application built using Flutter that allows users to write 
 Blog App is a comprehensive mobile application designed to facilitate the creation,  and management of blog posts. It is built using Flutter, a popular and powerful framework for building mobile applications. The app is structured around a clean architecture, which separates the application into three main layers: data, domain, and presentation. This approach ensures that each layer is responsible for a specific task, making it easier to maintain and update the application. 
 
 ## Features 
-- User Authentication: The app uses Supabase for user authentication, allowing users to register and log in securely. - - Blog Post Management: Users can create blog posts, with features for adding content, images, and tags. 
+- User Authentication: The app uses Supabase for user authentication, allowing users to register and log in securely. 
+- Blog Post Management: Users can create blog posts, with features for adding content, images, and tags. 
 - Local Storage: Hive is used for local storage, ensuring that user data is stored securely on the device. 
 - Online Storage: Supabase is used for online storage, allowing users to access their blog posts from any device. 
 - State Management: Bloc is used for state management, ensuring that the app's UI is always in sync with the app's state. 
